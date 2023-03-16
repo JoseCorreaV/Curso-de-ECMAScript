@@ -1,0 +1,33 @@
+code . ---> para abrir VSCODE
+-------------------------------
+inicializar --> agregar configución base de npm
+
+Git init --> inizializar
+npm init -y --> hacer todo por defecto
+
+npm init - --> para configurarlo manualmente
+configuración{
+nombre del proyecto - --> solo enter(para no hacer cambios)
+versión - --> se puede cambiar la versión
+descripción - --> poner la descripción
+punto de entrada - --> enter "para dejarlo por defecto
+debido a que trabajaremos con multiples archivos"
+test command - --> para añadir pruebas
+git repository - --> lo tomamos por defecto, pero puede 
+configurarse manualmente
+keywords - ---> de 3 a 5 palabras para describir proyecto (ecmascript)
+autor - --> Jose correa <josestivencorrea@gmail.com>
+License (ISC) - --> se puede encontrar en github -- MIT (Para comercializar basado en este recurso)
+}
+
+---------------------
+plugins para VSCODE
+
+Auto close tag
+code runner
+Error License
+Guides
+ident-rainbow
+Line Server
+Palenight Theline
+JavaScript (ES6) code snippets

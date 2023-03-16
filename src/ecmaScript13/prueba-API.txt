@@ -1,0 +1,3 @@
+Fake API => fakeapi.platzi.com => para practicar
+
+para simulacion.
